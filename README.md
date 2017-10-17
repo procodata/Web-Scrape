@@ -15,4 +15,6 @@
   &emsp;&emsp; The project analyzed the job market of data scientists in term of location, salary, skill sets, experience, degree preference.
 </p>
 
+<img src="./ds_wordcloud.png">
+
 
